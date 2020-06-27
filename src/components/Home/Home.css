@@ -1,0 +1,6 @@
+.container{
+    background-color:  wheat;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 50px;
+}
